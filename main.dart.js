@@ -57077,7 +57077,7 @@ return A.a_(null,r)}})
 return A.a0($async$$1,r)},
 $S:330}
 A.a1f.prototype={
-$0(){this.a.d.eL("https://drive.google.com/file/d/1d8joQTVpQQF0Giici4VHDam95sGMo58a/view")},
+$0(){this.a.d.eL("https://drive.google.com/file/d/1ycun7Okg8KItM0tuhhbkBuI73b_9ZIik/view?usp=sharing")},
 $S:1}
 A.a1g.prototype={
 $0(){this.a.d.eL("https://github.com/elvinosmanov")},
